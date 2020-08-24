@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00ab8402-22bd-4e4e-aebc-c3c92016a3d0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gUzEnA5NSg3cOyeiPG8F0rgReH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/examples/landing-page.html" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/examples/landing-page.html" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ciara\Google Drive\Other\ciaranmurrsite\assets\images" />
+      <recent name="C:\Users\ciara\Google Drive\Other\ciaranmurrsite" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00ab8402-22bd-4e4e-aebc-c3c92016a3d0" name="Default Changelist" comment="" />
+      <created>1598183850543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598183850543</updated>
+      <workItem from="1598183851967" duration="16674000" />
+      <workItem from="1598289576400" duration="2454000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-216" y="-12" width="1643" height="896" maximized="true" key="DiffContextDialog" timestamp="1598198149869">
+      <screen x="0" y="0" width="1827" height="1080" />
+    </state>
+    <state x="-216" y="-12" width="1643" height="896" maximized="true" key="DiffContextDialog/0.0.1827.1080/1920.0.1920.1080/-1920.0.1920.1080@0.0.1827.1080" timestamp="1598198149869" />
+    <state x="693" y="294" key="FileChooserDialogImpl" timestamp="1598197887789">
+      <screen x="0" y="0" width="1827" height="1080" />
+    </state>
+    <state x="693" y="294" key="FileChooserDialogImpl/0.0.1827.1080/1920.0.1920.1080/-1920.0.1920.1080@0.0.1827.1080" timestamp="1598197887789" />
+    <state x="576" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1598196169164">
+      <screen x="0" y="0" width="1827" height="1080" />
+    </state>
+    <state x="576" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1827.1080/1920.0.1920.1080/-1920.0.1920.1080@0.0.1827.1080" timestamp="1598196169164" />
+  </component>
+</project>
