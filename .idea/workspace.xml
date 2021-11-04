@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="00ab8402-22bd-4e4e-aebc-c3c92016a3d0" name="Default Changelist" comment="">
+    <list default="true" id="00ab8402-22bd-4e4e-aebc-c3c92016a3d0" name="Default Changelist" comment="Updated for Nov 2021">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -37,6 +55,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/examples/landing-page.html" />
   </component>
   <component name="RecentsManager">
@@ -45,7 +64,7 @@
       <recent name="C:\Users\ciara\Google Drive\Other\ciaranmurrsite" />
     </key>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="false" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -58,25 +77,50 @@
       <updated>1598183850543</updated>
       <workItem from="1598183851967" duration="16674000" />
       <workItem from="1598289576400" duration="2454000" />
-      <workItem from="1618244698844" duration="1718000" />
+      <workItem from="1618244698844" duration="1973000" />
+      <workItem from="1636043163826" duration="1227000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated for Nov 2021" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated for Nov 2021" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="-216" y="-12" width="1643" height="896" maximized="true" key="DiffContextDialog" timestamp="1598198149869">
-      <screen x="0" y="0" width="1827" height="1080" />
+    <state width="1514" height="224" key="GridCell.Tab.0.bottom" timestamp="1636043908618">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="-216" y="-12" width="1643" height="896" maximized="true" key="DiffContextDialog/0.0.1827.1080/1920.0.1920.1080/-1920.0.1920.1080@0.0.1827.1080" timestamp="1598198149869" />
-    <state x="693" y="294" key="FileChooserDialogImpl" timestamp="1598197887789">
-      <screen x="0" y="0" width="1827" height="1080" />
+    <state width="1514" height="224" key="GridCell.Tab.0.bottom/0.0.1536.864/-1920.0.1920.1080@0.0.1536.864" timestamp="1636043908618" />
+    <state width="1514" height="224" key="GridCell.Tab.0.center" timestamp="1636043908618">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="693" y="294" key="FileChooserDialogImpl/0.0.1827.1080/1920.0.1920.1080/-1920.0.1920.1080@0.0.1827.1080" timestamp="1598197887789" />
-    <state x="576" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1598196169164">
-      <screen x="0" y="0" width="1827" height="1080" />
+    <state width="1514" height="224" key="GridCell.Tab.0.center/0.0.1536.864/-1920.0.1920.1080@0.0.1536.864" timestamp="1636043908618" />
+    <state width="1514" height="224" key="GridCell.Tab.0.left" timestamp="1636043908618">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="576" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1827.1080/1920.0.1920.1080/-1920.0.1920.1080@0.0.1827.1080" timestamp="1598196169164" />
+    <state width="1514" height="224" key="GridCell.Tab.0.left/0.0.1536.864/-1920.0.1920.1080@0.0.1536.864" timestamp="1636043908618" />
+    <state width="1514" height="224" key="GridCell.Tab.0.right" timestamp="1636043908618">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1514" height="224" key="GridCell.Tab.0.right/0.0.1536.864/-1920.0.1920.1080@0.0.1536.864" timestamp="1636043908618" />
+    <state x="431" y="182" width="672" height="678" key="search.everywhere.popup" timestamp="1636043785871">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="182" width="672" height="678" key="search.everywhere.popup/0.0.1536.864/-1920.0.1920.1080@0.0.1536.864" timestamp="1636043785871" />
   </component>
 </project>
