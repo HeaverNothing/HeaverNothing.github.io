@@ -21,6 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="00ab8402-22bd-4e4e-aebc-c3c92016a3d0" name="Default Changelist" comment="Updated for Nov 2021">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/material-kit.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/material-kit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/plugins/jquery.sharrre.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/plugins/jquery.sharrre.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +58,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/examples/landing-page.html" />
   </component>
   <component name="RecentsManager">
@@ -78,8 +82,17 @@
       <workItem from="1598183851967" duration="16674000" />
       <workItem from="1598289576400" duration="2454000" />
       <workItem from="1618244698844" duration="1973000" />
-      <workItem from="1636043163826" duration="1227000" />
+      <workItem from="1636043163826" duration="1359000" />
+      <workItem from="1648978702189" duration="4959000" />
     </task>
+    <task id="LOCAL-00001" summary="Updated for Nov 2021">
+      <created>1636044408100</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636044408100</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,25 +115,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="Updated for Nov 2021" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1514" height="224" key="GridCell.Tab.0.bottom" timestamp="1636043908618">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="2627" y="379" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1648980193676">
+      <screen x="1920" y="0" width="1857" height="1080" />
     </state>
-    <state width="1514" height="224" key="GridCell.Tab.0.bottom/0.0.1536.864/-1920.0.1920.1080@0.0.1536.864" timestamp="1636043908618" />
-    <state width="1514" height="224" key="GridCell.Tab.0.center" timestamp="1636043908618">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="2627" y="379" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1920.0.1857.1080/-1920.0.1920.1050/0.0.1857.1080@1920.0.1857.1080" timestamp="1648980193676" />
+    <state x="2381" y="169" key="SettingsEditor" timestamp="1648980006531">
+      <screen x="1920" y="0" width="1857" height="1080" />
     </state>
-    <state width="1514" height="224" key="GridCell.Tab.0.center/0.0.1536.864/-1920.0.1920.1080@0.0.1536.864" timestamp="1636043908618" />
-    <state width="1514" height="224" key="GridCell.Tab.0.left" timestamp="1636043908618">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1514" height="224" key="GridCell.Tab.0.left/0.0.1536.864/-1920.0.1920.1080@0.0.1536.864" timestamp="1636043908618" />
-    <state width="1514" height="224" key="GridCell.Tab.0.right" timestamp="1636043908618">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1514" height="224" key="GridCell.Tab.0.right/0.0.1536.864/-1920.0.1920.1080@0.0.1536.864" timestamp="1636043908618" />
-    <state x="431" y="182" width="672" height="678" key="search.everywhere.popup" timestamp="1636043785871">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="431" y="182" width="672" height="678" key="search.everywhere.popup/0.0.1536.864/-1920.0.1920.1080@0.0.1536.864" timestamp="1636043785871" />
+    <state x="2381" y="169" key="SettingsEditor/1920.0.1857.1080/-1920.0.1920.1050/0.0.1857.1080@1920.0.1857.1080" timestamp="1648980006531" />
   </component>
 </project>
